@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/programming/tic_tac_toe/main.c
+stdio.h
+-
+stdlib.h
+-
+dos.h
+-
+synchapi.h
+-
+conio.h
+-
+
